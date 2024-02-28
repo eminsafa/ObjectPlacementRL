@@ -5,6 +5,9 @@ ObjectReplacementRL is a reinforcement learning (RL) model designed to assist ro
 
 ## Usage
 
-- `pip install -r requirements.txt`
+- Clone repository inside your project.
+  - `git clone https://github.com/eminsafa/ObjectPlacementRL.git`
+- Install requirements.
+  - `pip install -r requirements.txt`
 - Import module in your repository.
-- 
+  - Check `example.py`
